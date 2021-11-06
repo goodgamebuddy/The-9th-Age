@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="1.13b" name="The-9th-Age" indexUrl="https://raw.githubusercontent.com/goodgamebuddy/The-9th-Age/master/GGB_Files/index.ggb" xmlns="https://raw.githubusercontent.com/goodgamebuddy/The-9th-Age/master/GGB_Files/dataIndexSchema">
+<dataIndex battleScribeVersion="1.13b" name="The-9th-Age" indexUrl="https://github.com/goodgamebuddy/The-9th-Age/blob/master/GGB_Files/index.ggb?raw=true" xmlns="https://raw.githubusercontent.com/goodgamebuddy/The-9th-Age/master/GGB_Files/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
-    <dataIndexEntry filePath="dreadElves.catz" dataType="catalogue" dataId="e864-7507-1f0d-3ea2" dataName="Dread Elves 2020" dataBattleScribeVersion="2.03" dataRevision="34"/>
-    <dataIndexEntry filePath="theNinthAge-FantasyBattles.gstz" dataType="gamesystem" dataId="aa64-1e8e-66fc-9abf" dataName="The 9th Age: Fantasy Battles 2nd Edition 2021" dataBattleScribeVersion="2.03" dataRevision="49"/>
-    <dataIndexEntry filePath="undyingDynasties.catz" dataType="catalogue" dataId="4079-b3c9-934f-ce79" dataName="Undying Dynasties 2021" dataBattleScribeVersion="2.03" dataRevision="51"/>
-    <dataIndexEntry filePath="dreadElves2.catz" dataType="catalogue" dataId="ce46-6b39-6f02-8925" dataName="Dread Elves 2021 Alpha 4" dataBattleScribeVersion="2.03" dataRevision="20"/>
-    <dataIndexEntry filePath="highbornElves.catz" dataType="catalogue" dataId="66f6-8610-3962-63fa" dataName="Highborn Elves 2021" dataBattleScribeVersion="2.03" dataRevision="63"/>
-    <dataIndexEntry filePath="sylvanElves.catz" dataType="catalogue" dataId="c524-67bf-fa35-6c5e" dataName="Sylvan Elves 2021" dataBattleScribeVersion="2.03" dataRevision="48"/>
-    <dataIndexEntry filePath="infernalDwarves.catz" dataType="catalogue" dataId="dfd2-0d74-3072-b274" dataName="Infernal Dwarves 2020" dataBattleScribeVersion="2.03" dataRevision="39"/>
-    <dataIndexEntry filePath="ogreKhans.catz" dataType="catalogue" dataId="b60b-8840-3461-ebf5" dataName="Ogre Khans 2021" dataBattleScribeVersion="2.03" dataRevision="54"/>
-    <dataIndexEntry filePath="warriorsOfTheDarkGods.catz" dataType="catalogue" dataId="9cd6-2c84-c59e-7dd1" dataName="Warriors of the Dark Gods 2021" dataBattleScribeVersion="2.03" dataRevision="85"/>
-    <dataIndexEntry filePath="hobgoblins.catz" dataType="catalogue" dataId="8ad8-dcc6-8331-c264" dataName="Hobgoblins 2021 Beta 1 Hotfix 1" dataBattleScribeVersion="2.03" dataRevision="4"/>
-    <dataIndexEntry filePath="theVerminSwarm.catz" dataType="catalogue" dataId="cb95-d0ac-2627-c23e" dataName="Vermin Swarm 2021" dataBattleScribeVersion="2.03" dataRevision="43"/>
-    <dataIndexEntry filePath="makhar.catz" dataType="catalogue" dataId="f4f2-a5a5-873e-1b18" dataName="Makhar 2021" dataBattleScribeVersion="2.03" dataRevision="26"/>
-    <dataIndexEntry filePath="freeCompanies.catz" dataType="catalogue" dataId="da96-69fb-2ba6-9da8" dataName="Free Companies 1.3.1" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="infernalDwarves2.catz" dataType="catalogue" dataId="ed3b-0fdf-b39c-32b0" dataName="Infernal Dwarves 2021 Beta 3" dataBattleScribeVersion="2.03" dataRevision="28"/>
-    <dataIndexEntry filePath="vampireCovenant.catz" dataType="catalogue" dataId="ef6e-1eeb-e440-8944" dataName="Vampire Covenant 2021" dataBattleScribeVersion="2.03" dataRevision="54"/>
-    <dataIndexEntry filePath="kingdomOfEquitaine.catz" dataType="catalogue" dataId="a0dc-734f-ea5e-2f6f" dataName="Kingdom of Equitaine 2021" dataBattleScribeVersion="2.03" dataRevision="43"/>
-    <dataIndexEntry filePath="asklanders.catz" dataType="catalogue" dataId="6f32-70a5-e6b1-a536" dataName="Åsklanders 2021" dataBattleScribeVersion="2.03" dataRevision="27"/>
-    <dataIndexEntry filePath="saurianAncients.catz" dataType="catalogue" dataId="3557-241b-5999-a3b1" dataName="Saurian Ancients 2021" dataBattleScribeVersion="2.03" dataRevision="52"/>
-    <dataIndexEntry filePath="beastHerds.catz" dataType="catalogue" dataId="f4f2-e414-182d-9513" dataName="Beast Herds 2021" dataBattleScribeVersion="2.03" dataRevision="46"/>
-    <dataIndexEntry filePath="nippon.catz" dataType="catalogue" dataId="c837-5cf4-590b-b3bb" dataName="Nippon 2.2.2" dataBattleScribeVersion="2.03" dataRevision="4"/>
-    <dataIndexEntry filePath="verminSwarm.catz" dataType="catalogue" dataId="3966-f982-d360-9f91" dataName="Vermin Swarm 2021.2 Alpha 4" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="daemonLegions.catz" dataType="catalogue" dataId="a422-c29f-5027-f336" dataName="Daemon Legions 2021" dataBattleScribeVersion="2.03" dataRevision="66"/>
-    <dataIndexEntry filePath="empireOfSonnstahl.catz" dataType="catalogue" dataId="1aa5-c442-6972-b551" dataName="Empire of Sonnstahl 2021" dataBattleScribeVersion="2.03" dataRevision="44"/>
-    <dataIndexEntry filePath="orcsAndGoblins.catz" dataType="catalogue" dataId="fb15-9166-d400-2894" dataName="Orcs and Goblins 2021" dataBattleScribeVersion="2.03" dataRevision="50"/>
-    <dataIndexEntry filePath="cultists.catz" dataType="catalogue" dataId="baa8-f7ce-e46d-ad72" dataName="Cultists 2021" dataBattleScribeVersion="2.03" dataRevision="14"/>
-    <dataIndexEntry filePath="dwarvenHolds.catz" dataType="catalogue" dataId="041b-e72b-1f30-5a89" dataName="Dwarven Holds 2021" dataBattleScribeVersion="2.03" dataRevision="45"/>
+    <dataIndexEntry filePath="dreadElves.catz?raw=true" dataType="catalogue" dataId="e864-7507-1f0d-3ea2" dataName="Dread Elves 2020" dataBattleScribeVersion="2.03" dataRevision="34"/>
+    <dataIndexEntry filePath="theNinthAge-FantasyBattles.gstz?raw=true" dataType="gamesystem" dataId="aa64-1e8e-66fc-9abf" dataName="The 9th Age: Fantasy Battles 2nd Edition 2021" dataBattleScribeVersion="2.03" dataRevision="49"/>
+    <dataIndexEntry filePath="undyingDynasties.catz?raw=true" dataType="catalogue" dataId="4079-b3c9-934f-ce79" dataName="Undying Dynasties 2021" dataBattleScribeVersion="2.03" dataRevision="51"/>
+    <dataIndexEntry filePath="dreadElves2.catz?raw=true" dataType="catalogue" dataId="ce46-6b39-6f02-8925" dataName="Dread Elves 2021 Alpha 4" dataBattleScribeVersion="2.03" dataRevision="20"/>
+    <dataIndexEntry filePath="highbornElves.catz?raw=true" dataType="catalogue" dataId="66f6-8610-3962-63fa" dataName="Highborn Elves 2021" dataBattleScribeVersion="2.03" dataRevision="63"/>
+    <dataIndexEntry filePath="sylvanElves.catz?raw=true" dataType="catalogue" dataId="c524-67bf-fa35-6c5e" dataName="Sylvan Elves 2021" dataBattleScribeVersion="2.03" dataRevision="48"/>
+    <dataIndexEntry filePath="infernalDwarves.catz?raw=true" dataType="catalogue" dataId="dfd2-0d74-3072-b274" dataName="Infernal Dwarves 2020" dataBattleScribeVersion="2.03" dataRevision="39"/>
+    <dataIndexEntry filePath="ogreKhans.catz?raw=true" dataType="catalogue" dataId="b60b-8840-3461-ebf5" dataName="Ogre Khans 2021" dataBattleScribeVersion="2.03" dataRevision="54"/>
+    <dataIndexEntry filePath="warriorsOfTheDarkGods.catz?raw=true" dataType="catalogue" dataId="9cd6-2c84-c59e-7dd1" dataName="Warriors of the Dark Gods 2021" dataBattleScribeVersion="2.03" dataRevision="85"/>
+    <dataIndexEntry filePath="hobgoblins.catz?raw=true" dataType="catalogue" dataId="8ad8-dcc6-8331-c264" dataName="Hobgoblins 2021 Beta 1 Hotfix 1" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="theVerminSwarm.catz?raw=true" dataType="catalogue" dataId="cb95-d0ac-2627-c23e" dataName="Vermin Swarm 2021" dataBattleScribeVersion="2.03" dataRevision="43"/>
+    <dataIndexEntry filePath="makhar.catz?raw=true" dataType="catalogue" dataId="f4f2-a5a5-873e-1b18" dataName="Makhar 2021" dataBattleScribeVersion="2.03" dataRevision="26"/>
+    <dataIndexEntry filePath="freeCompanies.catz?raw=true" dataType="catalogue" dataId="da96-69fb-2ba6-9da8" dataName="Free Companies 1.3.1" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="infernalDwarves2.catz?raw=true" dataType="catalogue" dataId="ed3b-0fdf-b39c-32b0" dataName="Infernal Dwarves 2021 Beta 3" dataBattleScribeVersion="2.03" dataRevision="28"/>
+    <dataIndexEntry filePath="vampireCovenant.catz?raw=true" dataType="catalogue" dataId="ef6e-1eeb-e440-8944" dataName="Vampire Covenant 2021" dataBattleScribeVersion="2.03" dataRevision="54"/>
+    <dataIndexEntry filePath="kingdomOfEquitaine.catz?raw=true" dataType="catalogue" dataId="a0dc-734f-ea5e-2f6f" dataName="Kingdom of Equitaine 2021" dataBattleScribeVersion="2.03" dataRevision="43"/>
+    <dataIndexEntry filePath="asklanders.catz?raw=true" dataType="catalogue" dataId="6f32-70a5-e6b1-a536" dataName="Åsklanders 2021" dataBattleScribeVersion="2.03" dataRevision="27"/>
+    <dataIndexEntry filePath="saurianAncients.catz?raw=true" dataType="catalogue" dataId="3557-241b-5999-a3b1" dataName="Saurian Ancients 2021" dataBattleScribeVersion="2.03" dataRevision="52"/>
+    <dataIndexEntry filePath="beastHerds.catz?raw=true" dataType="catalogue" dataId="f4f2-e414-182d-9513" dataName="Beast Herds 2021" dataBattleScribeVersion="2.03" dataRevision="46"/>
+    <dataIndexEntry filePath="nippon.catz?raw=true" dataType="catalogue" dataId="c837-5cf4-590b-b3bb" dataName="Nippon 2.2.2" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="verminSwarm.catz?raw=true" dataType="catalogue" dataId="3966-f982-d360-9f91" dataName="Vermin Swarm 2021.2 Alpha 4" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="daemonLegions.catz?raw=true" dataType="catalogue" dataId="a422-c29f-5027-f336" dataName="Daemon Legions 2021" dataBattleScribeVersion="2.03" dataRevision="66"/>
+    <dataIndexEntry filePath="empireOfSonnstahl.catz?raw=true" dataType="catalogue" dataId="1aa5-c442-6972-b551" dataName="Empire of Sonnstahl 2021" dataBattleScribeVersion="2.03" dataRevision="44"/>
+    <dataIndexEntry filePath="orcsAndGoblins.catz?raw=true" dataType="catalogue" dataId="fb15-9166-d400-2894" dataName="Orcs and Goblins 2021" dataBattleScribeVersion="2.03" dataRevision="50"/>
+    <dataIndexEntry filePath="cultists.catz?raw=true" dataType="catalogue" dataId="baa8-f7ce-e46d-ad72" dataName="Cultists 2021" dataBattleScribeVersion="2.03" dataRevision="14"/>
+    <dataIndexEntry filePath="dwarvenHolds.catz?raw=true" dataType="catalogue" dataId="041b-e72b-1f30-5a89" dataName="Dwarven Holds 2021" dataBattleScribeVersion="2.03" dataRevision="45"/>
   </dataIndexEntries>
 </dataIndex>
