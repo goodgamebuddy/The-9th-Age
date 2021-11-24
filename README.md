@@ -17,7 +17,7 @@ The data was created to be used in BattleScribe to create army lists for [The 9t
 
 __So why did you fork it?__
 
-I want to use the data in an app that I'm developing.
+I want to use the data in an app that I'm developing ([Good Game Buddy](https://www.goodgamebuddy.co.uk)).
 
 I also want to see how difficult it will be to create language-specific versions of the data. A version of the rules exists for German, Spanish, French, Italian, Polish, Russian and Chinese. However, unless I'm missing something, there is no corresponding version of the BattleScribe data for any of these languages. I suspect this is because the answer to my "how difficult will it be" question is "very", but I'd like to look into it nevertheless. 
 
